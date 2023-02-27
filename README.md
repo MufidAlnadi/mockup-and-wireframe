@@ -7,7 +7,7 @@
 
 [mockup](https://www.figma.com/file/FheMQaiLbiTWneMTIPL0GD/mockup-task1?t=zgzmdw5lOP7kmfZQ-1)
 
-### tools
+### **tools**
 1. [Figma](https://www.figma.com/files/recent?fuid=1199818460726642492)
 2. [Github](https://github.com/MaisGhaith)
 3. [FlatIcon](https://www.flaticon.com/)
