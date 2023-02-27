@@ -1,4 +1,4 @@
-# mockup-and-wireframe
+# mockup-and-wireframe.
 
 ### The **_I'm learning_** website is a platform designed for online learning and education. The website provides courses, resources, and tools to help learners enhance their knowledge and skills in various fields. 
 
